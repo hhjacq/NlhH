@@ -10,6 +10,9 @@ Aligned models of NlhH to other proteins (Figure 14): **use relevant alignment P
 
 Docked model of NlhH to MHET (Figure 19): use **NlhH_MHET_bound.pdb**
 
+Guide to using zebra for protein prediction (THIS IS FOR REED STUDENTS WITH AUTHORIZATION ONLY!!!): use guide_to_zebra.md
+
 Model of rPPE taken from RCSB PDB 40B8 (https://www.rcsb.org/structure/4ob8)
 
 Model of IsMHETase taken from RCSB PDB 6QZ4 (https://www.rcsb.org/structure/6QZ4)
+
